@@ -1,2 +1,2 @@
-# dlrht.github.io
+# DLRHT Wiki
 The official wiki page for DLRHT
